@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Drishti Scan — See Threats. Secure What Matters.
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
@@ -218,3 +219,7 @@ drishti-scan/
 
 ## 📄 License
 This project is licensed under the MIT License — feel free to use and extend it for your portfolio and research!
+=======
+# drishti-scan
+Full-stack cybersecurity assessment and awareness platform with URL threat detection, risk scoring, authentication, and security reports.
+>>>>>>> 8ee9dcef837025b0ec7b9b55bc0ea1818db8cc94
